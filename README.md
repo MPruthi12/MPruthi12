@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://instagram.com/pruthi_mayank_" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> &nbsp;&nbsp;
-<a href="https://codepen.io/pruthi_mayank" target="blank"><img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-duo-tal-revivo.png"/></a> 
+<a href="https://codepen.io/pruthi_mayank" target="blank"><img src="https://img.icons8.com/color/50/000000/codepen.png"/><a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
